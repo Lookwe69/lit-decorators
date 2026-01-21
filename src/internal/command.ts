@@ -1,1 +1,3 @@
-export function command() {}
+export function command() {
+	console.log('command decorator');
+}
